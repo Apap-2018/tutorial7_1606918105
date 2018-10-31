@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: favianhazman
+Build-Jdk: 10.0.2
+Implementation-Title: Tutorial7-savirams
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.apap
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Tutorial7-savirams
+Created-By: Maven Integration for Eclipse
+
